@@ -1,0 +1,4 @@
+curl "http://localhost:3000/fng?ex=bithumb&market=KRW-ETH&type=days&count=1"
+curl "http://localhost:3000/fng?ex=upbit&market=KRW-ETH&type=days&count=1"
+
+# can't init type minutes
